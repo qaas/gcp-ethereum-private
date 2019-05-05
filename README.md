@@ -6,6 +6,7 @@ Libraries & frameworks used:
 
 Smart contract development and deployment:
 - truffle
+
 Web:
 - web3
 - react
